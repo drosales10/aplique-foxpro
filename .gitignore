@@ -1,0 +1,24 @@
+# Visual FoxPro / generated project files
+*.dbf
+*.fpt
+*.cdx
+*.idx
+*.dbt
+*.dll
+*.exe
+*.tmp
+*.bak
+*.log
+*.txt
+*.err
+*.lck
+*.mem
+*.frx
+*.lbx
+*.pjx
+*.pjt
+*.prg~
+
+# OS files
+.DS_Store
+Thumbs.db
